@@ -6,6 +6,6 @@
 > 
 >markdown格式
 >
->git使用
+>[git使用](https://github.com/mixinan/mygit)
 >
 >mysql使用
